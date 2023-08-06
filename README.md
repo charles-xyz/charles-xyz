@@ -1,17 +1,9 @@
 
   
 
-### <div align="center">I'm Charles, a Data Science student  @Syracuse 🍊</div>  
+### <div align="center"> CHARLES XYZ </div>  
   
 <br/>
-
-- 🔭 I’m currently working on a NLP solution to simplify nutrient intake tracking  
-  
-
-- 🌱 I’m currently interested in learning more about low latency systems  
-  
-
-- ⚡ Fun fact: I learned to program building a golf app🏌️ and wavetable synths 🎵  
   
 
 <br/>  
