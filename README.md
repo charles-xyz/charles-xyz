@@ -15,7 +15,7 @@ When I’m not tuning models and building product, you’ll find me skiing 🎿,
 ---
 
 ### 🔭 I’m Currently Working On  
-- **Trubuild** Industry leading platform for AI in construction
+- **[Trubuild](https://trubuild.io/)** Industry leading platform for AI in construction
 - **Explane** Open source tool to learn + navigate codebases quickly
 - **[Dreme](https://dreme.io/)** An actually good AI Chat app
 ---
