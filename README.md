@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Charles Lazaroni  
-[LinkedIn](#) • [Medium](#) • [Website](#)
+[LinkedIn](https://www.linkedin.com/in/charleslazaroni/) • [Medium](https://medium.com/@charleslazaroni) • [Website](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=charleslazaroni)
 
