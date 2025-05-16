@@ -23,8 +23,7 @@ When I’m not tuning models and building product, you’ll find me skiing 🎿,
 ### 🌱 I’m Currently Studying & Learning 
 - CUDA 🧠  
 - NVIDIA's LLM Inference Course 🔧  
-- Building for scale on AWS 🏗  
-
+- Model compression methods
 ---
 
 ### ✍️ My Writing
