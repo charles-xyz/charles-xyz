@@ -22,8 +22,7 @@ When I’m not tuning models and building product, you’ll find me skiing 🎿,
 ### 🌱 I’m Currently Studying & Researching 
 - Rust
 - Strategies for high velocity software development
-- 
-- Model compression methods
+- Optimizing AI extraction pipelines for speed 
 ---
 
 ### ✍️ My Writing
