@@ -6,23 +6,23 @@
 ---
 
 ### 🙋‍♂️ About Me  
-I'm a ML Engineer based in the USA 🇺🇸. I specialize in building AI-powered products from 0→1, I build thoughtfully- trying to find the simplest/ most scalable solution possible.
+I'm an American Engineer from NYC. I specialize in getting products from 0→1.
 
-I've built everything from LLM-powered evaluation tools for construction bids to personalized training content generators for athletes. I enjoy shipping fast, learning deeply, and working across the stack — Python, TypeScript, Terraform, AWS, Docker, Supabase, and more.
+I've built everything from LLM-powered evaluation tools for construction bids to personalized training content generators for athletes. I enjoy shipping fast, implementing cutting edge research, and working across the stack.
 
-When I’m not tuning models and building product, you’ll find me skiing 🎿, lifting 🏋️‍♂️, or reading about antiquity.
+When I’m not tuning models and building product, you’ll find me skiing 🎿, grappling 🏋️‍♂️, or reading about antiquity.
 
 ---
 
 ### 🔭 I’m Currently Working On  
-- **[Trubuild](https://trubuild.io/)** Industry leading platform for AI in construction
-- **Explane** Open source tool to learn + navigate codebases quickly
-- **[Dreme](https://dreme.io/)** An actually good AI Chat app
+- **[File AI](https://www.file.ai/)** The industry leading workflow automation company.
+- **[Two Percent Club]** Dedicate 2% of your time every week to charity.
 ---
 
-### 🌱 I’m Currently Studying & Learning 
-- CUDA 🧠  
-- NVIDIA's LLM Inference Course 🔧  
+### 🌱 I’m Currently Studying & Researching 
+- Rust
+- Strategies for high velocity software development
+- 
 - Model compression methods
 ---
 
