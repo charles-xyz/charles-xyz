@@ -6,11 +6,7 @@
 ---
 
 ### 🙋‍♂️ About Me  
-I'm an American Engineer from NYC. I specialize in getting products from 0→1.
-
-I've built everything from LLM-powered evaluation tools for construction bids to personalized training content generators for athletes. I enjoy shipping fast, implementing cutting edge research, and working across the stack.
-
-When I’m not tuning models and building product, you’ll find me skiing 🎿, grappling 🏋️‍♂️, or reading about antiquity.
+American Engineer from NYC. I specialize in getting products from 0→1.
 
 ---
 
