@@ -16,7 +16,7 @@ American Engineer from NYC. I specialize in getting products from 0→1.
 ---
 
 ### 🌱 I’m Currently Studying & Researching 
-- Rust
+- AI for the legal industry
 - Strategies for high velocity software development
 - Optimizing AI extraction pipelines for speed 
 ---
